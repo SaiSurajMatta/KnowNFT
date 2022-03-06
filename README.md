@@ -1,0 +1,2 @@
+# KnowNFT
+KnowNFT: A Bot that will answer all the queries regarding NFTs. NFT is a topic known to only a few people on the internet. It is slowly getting popular with each passing hour. So the development of such a Bot is needed to answer all the queries in less time. KnowNFT will solve this Problem and Spread more knowledge about NFTs. It can be used to help people understand NFTs. It will give them the information that they are looking for. In this Project, The website will have a QnA bot that will answer the questions of different users efficiently.
