@@ -9,6 +9,12 @@ NFT is a topic known to only a few people on the internet. It is slowly getting 
 This Project is developed during my internship at Future Ready Talent by Microsoft, AICTE.
 I Have used few of the azure services like Azure QnA Maker, Azure Web App, Visual Studio Code.
 
+UPDATE📢 : You cannot use the BOT Anymore due to the inefficient balance in my Azure Account⚡ But you can Watch the Demo Video to see how it works✌
+
+# DEMO VIDEO
+[Youtube Link](https://youtu.be/A7upMhjhT1o)
+
+# LINKS
 You can visit here : https://knownft.azurewebsites.net/
 
 Also on Github : https://saisurajmatta.github.io/KnowNFT/
